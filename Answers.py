@@ -52,6 +52,6 @@ print('Mean survival time and {:.{prec}%} projection interval:'.format(1 - Calib
 
 print()
 print('Problem 6')
-print('credible interval of the estimated annual mortality probability and in the projection interval of the mean survival time both get narrower.')
+print('After changing the OBS_TOTAL to 1146 and OBS_FIVEYEARSURVIV to 800 in the "CalibrationSettings" file, the answer is 14.2730 (12.5028, 16.0790). Credible interval of the estimated annual mortality probability and in the projection interval of the mean survival time both get narrower.')
 
 
